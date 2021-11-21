@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rawat2511.github.io/csb-z0g5c/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rawat2511.github.io/csb-z0g5c/static/js/main.84f590e3.chunk.js",
+    "main.js.map": "https://rawat2511.github.io/csb-z0g5c/static/js/main.84f590e3.chunk.js.map",
+    "runtime-main.js": "https://rawat2511.github.io/csb-z0g5c/static/js/runtime-main.e973ed82.js",
+    "runtime-main.js.map": "https://rawat2511.github.io/csb-z0g5c/static/js/runtime-main.e973ed82.js.map",
+    "static/js/2.b0fd52f1.chunk.js": "https://rawat2511.github.io/csb-z0g5c/static/js/2.b0fd52f1.chunk.js",
+    "static/js/2.b0fd52f1.chunk.js.map": "https://rawat2511.github.io/csb-z0g5c/static/js/2.b0fd52f1.chunk.js.map",
+    "index.html": "https://rawat2511.github.io/csb-z0g5c/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rawat2511.github.io/csb-z0g5c/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b0fd52f1.chunk.js.LICENSE.txt": "https://rawat2511.github.io/csb-z0g5c/static/js/2.b0fd52f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e973ed82.js",
+    "static/js/2.b0fd52f1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.84f590e3.chunk.js"
+  ]
+}
